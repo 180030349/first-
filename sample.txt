@@ -1,0 +1,5 @@
+Devops is not a tool
+To start a new repository
+-->git add
+Storage of file permenantly in version history 
+--->git commit -a
